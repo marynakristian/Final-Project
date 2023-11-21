@@ -1,0 +1,176 @@
+.bg {
+    width: 1440px;
+    height: 471px;
+    flex-shrink: 0;
+    background: #0b0d17;
+}
+
+.col1 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+}
+
+.fanuc {
+    margin-left: 8vw;
+    margin-top: 10vh;
+    width: 120px;
+    height: 28.235px;
+    color: #fff;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 25.668px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 109.5%; /* 28.107px */
+}
+
+.fanuc1 {
+    margin-top: 3vh;
+    text-align: start;
+    width: 255px;
+    color: #d9dbe1;
+    font-feature-settings: "liga" off;
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+}
+
+.fanuc2 {
+    margin-top: 2vh;
+}
+
+.fani {
+    margin-left: 35vw;
+    margin-top: -4vh;
+    width: 255px;
+    color: var(--default-white, #fff);
+    font-feature-settings: "liga" off;
+    font-family: Manrope;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px; /* 150% */
+}
+
+.fani1 {
+    margin-top: 2vh;
+}
+
+.fani1,
+.fani2,
+.fani3,
+.fani4,
+.fani5 {
+    padding-top: 1vh;
+    color: var(--text-gray-300, #d9dbe1);
+    font-feature-settings: "liga" off;
+
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+}
+
+.fadi {
+    margin-left: 55vw;
+    margin-top: -26vh;
+
+    width: 255px;
+    color: #fff;
+    font-feature-settings: "liga" off;
+    font-family: Manrope;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px; /* 150% */
+}
+
+.fadi1 {
+    margin-top: 2vh;
+}
+
+.fadi1,
+.fadi2,
+.fadi3,
+.fadi4,
+.fadi5 {
+    padding-top: 1vh;
+    color: var(--text-gray-300, #d9dbe1);
+    font-feature-settings: "liga" off;
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+}
+
+.fara {
+    margin-left: 75vw;
+    margin-top: -26vh;
+    width: 255px;
+    color: var(--default-white, #fff);
+    font-feature-settings: "liga" off;
+    font-family: Manrope;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px; /* 150% */
+}
+
+.fara-ico {
+    margin-top: 2vh;
+    margin-bottom: -0.5vh;
+    margin-right: 1vw;
+    align-items: center;
+}
+
+.fara1,
+.fara2,
+.fara3 {
+    padding-top: 2vh;
+    width: 223px;
+    color: #d9dbe1;
+    font-feature-settings: "liga" off;
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+}
+
+.loft {
+    margin-top: 20vh;
+    margin-left: 8vw;
+    color: var(--text-gray-300, #d9dbe1);
+    font-feature-settings: "liga" off;
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+}
+
+.low {
+    margin-left: 60vw;
+    margin-top: -7vh;
+    padding-right: 3vw;
+    display: flex;
+    color: var(--text-gray-300, #d9dbe1);
+    font-feature-settings: "liga" off;
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+}
+
+.lock1,
+.lock2,
+.lock3 {
+    padding-right: 2vw;
+}
