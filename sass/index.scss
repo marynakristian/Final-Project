@@ -26,6 +26,6 @@ body {
     display: block;
 }
 
-@import "./components/Header";
-@import "./components/Main";
-@import "./components/Footer";
+@import "./components/Header/_Header.scss";
+@import "./components/Main/_Main.scss";
+@import "./components/Footer/_Footer.scss";
