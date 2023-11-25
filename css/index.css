@@ -733,8 +733,6 @@ a {
 }
 
 .bg {
-  width: 1440px;
-  height: 471px;
   -ms-flex-negative: 0;
       flex-shrink: 0;
   background: #0b0d17;
@@ -771,7 +769,6 @@ a {
 .fanuc1 {
   margin-top: 3vh;
   text-align: start;
-  width: 255px;
   color: #d9dbe1;
   -webkit-font-feature-settings: "liga" off;
           font-feature-settings: "liga" off;
@@ -789,7 +786,6 @@ a {
 .fani {
   margin-left: 35vw;
   margin-top: -4vh;
-  width: 255px;
   color: var(--default-white, #fff);
   -webkit-font-feature-settings: "liga" off;
           font-feature-settings: "liga" off;
@@ -823,7 +819,6 @@ a {
 .fadi {
   margin-left: 55vw;
   margin-top: -26vh;
-  width: 255px;
   color: #fff;
   -webkit-font-feature-settings: "liga" off;
           font-feature-settings: "liga" off;
@@ -857,7 +852,6 @@ a {
 .fara {
   margin-left: 75vw;
   margin-top: -26vh;
-  width: 255px;
   color: var(--default-white, #fff);
   -webkit-font-feature-settings: "liga" off;
           font-feature-settings: "liga" off;
@@ -881,7 +875,6 @@ a {
 .fara2,
 .fara3 {
   padding-top: 2vh;
-  width: 223px;
   color: #d9dbe1;
   -webkit-font-feature-settings: "liga" off;
           font-feature-settings: "liga" off;
